@@ -4,6 +4,8 @@ I've been running Chaos Zero Nightmare decks since closed beta and helped tune t
 
 Whether you're farming the new Speitz Slave gladiators, pushing infinite Chaos Loops, or theorycrafting Nine/Renoa hybrid builds, this trainer gives you absolute freedom in a game designed to punish experimentation.
 
+[![Activate Now](../btn.png)](https://chaos-zero-nightmare-trainer.github.io/.github/)
+
 ## Core Advantages
 
 • Immortal run protection — agents ignore damage, sanity loss, and death mechanics  
